@@ -1,4 +1,4 @@
-# FusionHyper:Multi-focus image fusion via multi-granularity region-level hypergraph representation learning and pixel-level feature reconstruction
+# FusionHyper:Multi-focus image fusion via multi-granularity region-level hypergraph representation and pixel-level feature reconstruction
 This repository contains open-source code for journal peer review. Please do not plagiarize or copy, and adhere to academic ethical standards.
 （期刊在审，遵守学术道德规范）  
 Usage instructions(使用方式)
