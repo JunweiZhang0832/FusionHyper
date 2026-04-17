@@ -1,6 +1,6 @@
 # FusionHyper: Multi-focus image fusion via multi-grained region-level hypergraph representation and adaptive pixel-wise feature interaction
 This repository contains open-source code for journal peer review. Please do not plagiarize or copy, and adhere to academic ethical standards.
-# Neurocomputing在投  
+# 在投  
 Usage instructions(使用方式)  
 This experiment was conducted entirely on the RTX 4080 Super GPU(本实验均在RTX4080superGPU上进行)   
 Network文件夹中为本论文中的网络结构(The Network folder contains the network structures used in this paper.)  
